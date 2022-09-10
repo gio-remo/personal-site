@@ -1,0 +1,22 @@
+{{ define "main" }}
+{{ partial "profile.html" . }}
+
+<section id="section">
+
+    {{ .Content }}
+    
+    {{ range sort $.Site.Data.shelf.books "year" "desc" }}
+        <h3>{{ .year }}</h3>
+        <ul>
+            {{ $slice := .list }}
+            {{ $len := len $slice }}
+            {{ range (seq $len) }}
+                {{ $i := sub $len . }}
+                <li><b>{{ index $slice $i "title" }}</b>, {{ index $slice $i "author" }}</li>
+            {{ end }}
+        </ul>
+    {{ end }}
+
+</section>
+
+{{ end }}

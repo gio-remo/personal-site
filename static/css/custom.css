@@ -1,0 +1,19 @@
+nav.navigation {
+    padding: 20px 0 0;
+    text-align: center;
+  }
+  @media (max-width: 700px) {
+    nav.navigation {
+      padding: 20px 0 0 0;
+      text-align: center;
+    }
+}
+
+.img-container { text-align: center; }
+
+img { max-width: 100%; }
+
+.linkedin {
+  text-align: center;
+  color: #8c8c8c;
+}
