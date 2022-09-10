@@ -12,7 +12,10 @@ nav.navigation {
 
 .img-container { text-align: center; }
 
-img { max-width: 100%; }
+img {
+  max-width: 100%;
+  pointer-events: none;
+}
 
 .linkedin {
   text-align: center;
