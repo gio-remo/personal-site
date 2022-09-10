@@ -6,7 +6,7 @@ linkedin: https://www.linkedin.com/posts/giovanni-remonti_european-university-re
 ---
 
 <div class="img-container">
-    <img src="https://res.cloudinary.com/giospic/image/upload/f_auto,q_auto/v1662109187/images/graduation.webp" style="max-width:70%"/>
+    <img src="https://res.cloudinary.com/giospic/image/upload/f_auto,q_auto/v1662109187/images/graduation.webp" />
 </div>
 
 When my parents tell me about their educational and professional background, I am astonished at how different 40 years ago the world and society looked like. Higher education was a privilege for a few. Today, I am happy and thankful to live in a **European** country where higher education is (almost) accessible for everyone. A lot is still to be done, but I am convinced that University, and the research conducted in it, is the place where our future lies.

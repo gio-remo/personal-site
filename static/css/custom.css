@@ -12,6 +12,8 @@ nav.navigation {
 
 .img-container { text-align: center; }
 
+.img-container img { max-width: 70%; }
+
 img {
   max-width: 100%;
   pointer-events: none;
