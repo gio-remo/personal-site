@@ -47,7 +47,7 @@ params:
   # Site Description, used in HTML meat
   description: My Blog
   # Avatar
-  avatarLink: https://res.cloudinary.com/giospic/image/upload/q_auto/v1662803060/images/avatar.webp
+  avatarLink: https://res.cloudinary.com/giospic/image/upload/c_fill,q_auto,w_600/v1662803060/images/avatar.webp
 
   ###########################################
   # Optional Configuration
