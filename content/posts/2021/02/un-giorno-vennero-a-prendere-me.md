@@ -4,7 +4,7 @@ date: 2021-02-01
 ---
 
 <div class="img-container">
-    <img src="https://res.cloudinary.com/giospic/image/upload/f_auto,q_auto/v1610289875/images/hong-kong-arrests.jpg" />
+    <img src="https://res.cloudinary.com/giospic/image/upload/f_auto,q_auto/v1610289875/images/hong-kong-arrests.webp" />
 </div>
 
 La vedete questa foto? È stata scattata a luglio 2020 e ritrae alcuni giovani esponenti durante le primarie dei partiti pro-democrazia di Hong Kong.

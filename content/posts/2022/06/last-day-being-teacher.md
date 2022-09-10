@@ -5,7 +5,7 @@ linkedin: https://www.linkedin.com/posts/giovanni-remonti_teacher-job-students-a
 ---
 
 <div class="img-container">
-    <img src="https://res.cloudinary.com/giospic/image/upload/f_auto,q_auto/v1662108307/images/being-teacher.jpg" style="max-width:70%"/>
+    <img src="https://res.cloudinary.com/giospic/image/upload/f_auto,q_auto/v1662108307/images/being-teacher.webp" style="max-width:70%"/>
 </div>
 
 Today is ended my 3-months experience as a supply teacher at my former high school, the ITIS Pietro Paleocapa in Bergamo.
