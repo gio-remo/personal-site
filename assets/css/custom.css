@@ -23,3 +23,8 @@ img {
   text-align: center;
   color: #8c8c8c;
 }
+
+svg:hover path {
+  fill: #5badf0!important;
+  fill-opacity: 1!important;
+}
