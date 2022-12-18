@@ -2,6 +2,7 @@
 title: Behind the scenes
 date: 2022-11-16
 summary: It's now online my personal website/blog/archive/whatever.
+linkedin: https://www.linkedin.com/posts/giovanni-remonti_jamstack-hugo-github-activity-6998699305574227968-SHv0
 ---
 
 It's now online my personal website/blog/archive/whatever.
