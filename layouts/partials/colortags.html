@@ -1,0 +1,11 @@
+{{ range $tag := . }}
+    
+    {{ if eq $tag "POV" }}
+        <a href="{{ "tags/" | absURL }}{{ . | urlize }}" style="color: {{ site.Params.pov }};">{{ $tag }}</a>
+    {{ end }}
+
+    {{ if eq $tag "Work Out" }}
+        <a href="{{ "tags/" | absURL }}{{ . | urlize }}" style="color: {{ site.Params.workout }};">{{ $tag }}</a>
+    {{ end }}
+
+{{ end }}

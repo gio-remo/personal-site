@@ -1,6 +1,7 @@
 ---
 title: Dopo aver letto 1984
 date: 2021-03-01
+tags: ["POV"]
 ---
 
 Avevo in casa 1984 di George Orwell. Nonostante lo avessi già letto a scuola, mi sentivo che questo libro si meritasse un'altra lettura da parte mia. Più rilassata.

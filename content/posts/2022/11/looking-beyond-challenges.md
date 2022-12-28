@@ -3,6 +3,7 @@ title: Looking beyond challenges
 date: 2022-11-13
 summary: The reality is that we are all human beings with emotions facing difficulties.
 linkedin: https://www.linkedin.com/posts/giovanni-remonti_mentalhealth-emotions-difficulties-activity-6995770858107486208-bJ29
+tags: ["POV"]
 ---
 
 <div class="img-container">

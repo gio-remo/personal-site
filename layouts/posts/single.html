@@ -24,7 +24,6 @@
         Originally from <a href="{{ $.Params.linkedin }}" target="_blank">this</a> LinkedIn post
       {{ end }}
     </div>
-
     
     {{ if or .Site.Params.showToc .Params.showToc }}
         {{ partial "toc.html" . }}
@@ -36,9 +35,7 @@
 
     {{ with .Params.tags }}
         <div class="tags">
-            {{ range . }}
-                <a href="{{ "tags/" | absURL }}{{ . | urlize }}">{{ . }}</a>
-            {{ end }}
+          {{ partial "colortags.html" . }}
         </div>
     {{ end}}
     

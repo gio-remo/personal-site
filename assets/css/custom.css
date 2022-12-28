@@ -28,3 +28,17 @@ svg:hover path {
   fill: #5badf0!important;
   fill-opacity: 1!important;
 }
+
+.summary .tags {
+  margin-top: 12px;
+}
+.summary .tags a {
+  background: #f2f2f2;
+  padding: 4px 7px;
+  color: #757575;
+  font-size: 14px;
+  margin-right: 3px;
+}
+.summary .tags a:hover {
+  color: #0366d6;
+}
