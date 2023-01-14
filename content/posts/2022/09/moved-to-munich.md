@@ -3,7 +3,7 @@ title: I moved to Munich
 date: 2022-09-14
 summary: A few years ago, I never thought I would have the chance to live the European dream.
 linkedin: https://www.linkedin.com/posts/giovanni-remonti_germany-europeandream-europeancitizen-activity-6975719477657133056-e1iW
-tags: ["Work Out"]
+tags: ["POV"]
 ---
 
 <div class="img-container">

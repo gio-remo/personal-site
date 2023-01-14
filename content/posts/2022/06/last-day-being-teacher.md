@@ -2,7 +2,7 @@
 title: Last day being a Teacher
 date: 2022-06-08
 linkedin: https://www.linkedin.com/posts/giovanni-remonti_teacher-job-students-activity-6940345024924549120-gbzt
-tags: ["Work Out"]
+tags: ["Workin'"]
 ---
 
 <div class="img-container">

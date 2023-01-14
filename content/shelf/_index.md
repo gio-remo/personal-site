@@ -1,1 +1,1 @@
-I am not a bookworm but sometimes I like reading. In 2019 I started tracking what I read because it drives me to keep reading.
+I am not a bookworm but sometimes I like reading. In 2019 I started tracking what I read.
