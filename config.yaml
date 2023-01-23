@@ -8,7 +8,7 @@ defaultContentLanguage: en
 
 hasCJKLanguage: true
 permalinks:
-  posts: /posts/:year/:month/:title/
+  posts: /posts/:year/:month/:filename/
 
 paginate: 5
 
@@ -69,10 +69,6 @@ params:
   hiddenPostSummaryInHomePage: false
   # Website copy write, default: '© Copyright 2021 ❤️ {params.author}'
   copyright: ''
-
-  # Tag Colors
-  pov: "#a92020"
-  workin: "#314bae"
 
   # Extra links in navigation
   links:

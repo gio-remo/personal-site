@@ -42,3 +42,16 @@ svg:hover path {
 .summary .tags a:hover {
   color: #0366d6;
 }
+
+#archive {
+  margin-top: 48px;
+}
+
+#tags {
+  margin: 48px auto;
+}
+
+#list-page .pagination {
+  text-align: center;
+  margin-bottom: 0;
+}
