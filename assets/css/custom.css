@@ -8,6 +8,10 @@ nav.navigation {
     padding: 20px 0 0 0;
     text-align: center;
   }
+
+  #section {
+    padding: 0;
+  }
 }
 
 .img-container { text-align: center; }
