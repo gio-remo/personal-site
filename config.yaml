@@ -45,7 +45,7 @@ params:
   # Author biography
   bio:
   # Site Description, used in HTML meat
-  description: My Blog
+  description: A compact and portable version of me...
   # Avatar
   avatarLink: https://res.cloudinary.com/giospic/image/upload/c_fill,q_auto,w_600/v1662803060/images/avatar.webp
 
@@ -61,6 +61,7 @@ params:
   enableGoogleAnalytics: false
   # To enable table of content, you could set `showToc: true`, default is `false`
   showToc: false
+  autoHeadingID: true
   # To hidden powerBy message in the page footer, you could set: `showPowerBy: false`, default is `true`
   showPowerBy: false
   # To enable math typesetting , you could set `math: true`, default is `false`
