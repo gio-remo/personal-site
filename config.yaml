@@ -1,4 +1,4 @@
-#baseURL: https://example.com
+baseURL: http://giovanniremonti.me/
 languageCode: en-us
 title: Giovanni Remonti
 theme: hugo-theme-mini
