@@ -1,6 +1,6 @@
 ---
 sitemap:
-  priority: 1
+  priority: 1.0
 ---
 
 <div class="img-container">
