@@ -1,0 +1,5 @@
+User-agent: googlebot-image
+Disallow:/
+User-agent: *
+Disallow: 
+Sitemap: https://giovanniremonti.me/sitemap.xml
