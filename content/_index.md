@@ -1,5 +1,6 @@
 ---
-
+sitemap:
+  priority: 1
 ---
 
 <div class="img-container">
