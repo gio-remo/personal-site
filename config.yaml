@@ -1,4 +1,4 @@
-baseURL: http://giovanniremonti.me/
+baseURL: "/"
 languageCode: en-us
 title: Giovanni Remonti
 theme: hugo-theme-mini
