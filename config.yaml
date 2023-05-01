@@ -45,7 +45,7 @@ params:
   # Author biography
   bio:
   # Site Description, used in HTML meat
-  description: A compact and portable version of me...
+  description:
   # Avatar
   avatarLink: https://res.cloudinary.com/giospic/image/upload/c_fill,q_auto,w_600/v1662803060/images/avatar.webp
 
