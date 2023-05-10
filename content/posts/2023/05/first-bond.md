@@ -9,7 +9,7 @@ This is my first post here writing about money and finance, so first, let me mak
 
 Assuming we are living in a multigenerational model, we all receive an asset endowment, work, consume, and save. Thus, for me too, this has meant receiving an initial wealth when I was born in \\(t_0\\) (thanks mom and dad), and up until a few years ago, I assume the interest rate on my savings to be \\(r=0\\) because I didn't lend them to anyone. Starting from 2019, I have begun earning a wage for my occasional jobs (programmer, teacher or other mini-jobs). I've always saved nearly \\(s=0.95\\) of my wages, and therefore I consumed only a limited portion of my assets. (To illustrate better my consumption-savings behavior, we could define the financial support of my parents as a wage, but I won't)
 
-In 2019, with my first mini-jobs, I started investing part of my liquidity, and \\(r\\) has finally risen. Sooner or later, I will reserve a post only to describe the composition of my portfolio, which contains essentially two EFTs, while now, I'm going to illustrate why, some months ago, I decided to buy my first Italian (inflation-linked) bond.
+In 2019, with my first mini-jobs, I started investing part of my liquidity, and \\(r\\) has finally risen. Sooner or later, I will reserve a post only to describe the composition of my portfolio, which contains essentially two ETFs, while now, I'm going to illustrate why, some months ago, I decided to buy my first Italian (inflation-linked) bond.
 
 <div class="img-container">
     <img src="https://res.cloudinary.com/giospic/image/upload/f_auto,q_auto/v1683714680/images/first-bond.webp" />
@@ -17,7 +17,7 @@ In 2019, with my first mini-jobs, I started investing part of my liquidity, and 
 
 Motivations that made me buy [BTP Italia Ot24](https://www.borsaitaliana.it/borsa/obbligazioni/mot/btp/scheda/IT0005217770.html?lang=en) on 10/01/2023:
 1) Inflation was (and is still) rising.
-2) Tightening ECB monetary policy.
+2) Contractionary ECB monetary policy.
 
 **101. About the product.** BTP Italia Ot24 is part of the "BTP Italia" family of Italian inflation-linked bonds. Expiry date on 24/10/2024. Yearly coupon of 0.35%, paid in April and October. And, the juicy part, the revaluation of the principal, indexed to the Italian inflation by the FOI ex Tobacco ISTAT index.
 
