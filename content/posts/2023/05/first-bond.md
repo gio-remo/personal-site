@@ -32,4 +32,4 @@ When it comes to numbers, a spreadsheet is worth a thousand words. To summarize 
 
 In both, you can find estimations based on the OECD data.
 
-Overall, this operation is expected to have a net Internal Rate of Return around 3.4%, and a (more general) net Return Rate of 5.9% in two years. This numbers reflect the Italian risk, and indeed all the rating agencies set their ratings around the [BBB level](https://tradingeconomics.com/italy/rating), as of today. Although this situation may not be reassuring, I am pleased to have had the opportunity to purchase my first Italian bond as an Italian citizen and benefit from its interest rates.
+Overall, this operation is expected to have a net Internal Rate of Return around 3.4%, and a (more general) net Return Rate of 5.9% in two years. This numbers reflect the Italian risk, and indeed all the rating agencies set their ratings around the [BBB level](https://tradingeconomics.com/italy/rating), as of today. Although this situation may not be reassuring to some, I am happy I bought my first Italian bond.
