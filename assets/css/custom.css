@@ -9,8 +9,12 @@ nav.navigation {
     text-align: center;
   }
 
-  #section {
+  #list-page {
     padding: 0;
+  }
+
+  #single {
+    padding: 0 12px;
   }
 }
 
