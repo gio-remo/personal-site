@@ -4,4 +4,4 @@ I'm Giovanni and I'm an Economics Master's student at the [Ludwig-Maximilians-Un
 
 I obtained my BSc degree in Economics at the [University of Milan](https://ema.cdl.unimi.it/it) in July 2022, with the [thesis](https://github.com/gio-remo/Personal-Materials/tree/main/BSc-Thesis-Econ): _"Climateflation: Climate Change drives Inflation"_.
 
-After library, I like running, but I'm a runner who has never run a race. So, finding a good one to accomplish is currently in my to-do-list. Meanwhile, I'm hiking in the Bavarian mountains.
+After the library, I like running and playing 70s songs on my guitar. My ideal Sunday? Hiking in the Bavarian mountains.
