@@ -12,7 +12,7 @@ This is a list of my own works that I have written for my studies over the years
 
 <div style="margin-bottom:1.5em;">
 <b>✽ Countries Do Compete over Corporate Tax Rates while Keeping Revenues Stable</b><br>
-<div style="font-size: 80%;padding:7px 0 15px;">June 2023 | Seminar Paper | <a href="https://drive.google.com/file/d/16PlFSx7HgZB2zO9FGZYxlKEglNytuWdZ/view?usp=sharing" target="_blank">PDF</a></div>
+<div style="font-size: 80%;padding:7px 0 15px;">June 2023 | Seminar Paper | <a href="https://drive.google.com/file/d/1p7gaOlmrV3nUJv8TcTnlWdOBBk5TPvmH/view?usp=sharing" target="_blank">PDF</a></div> | <a href="https://drive.google.com/file/d/1rJtqMLAt5-B8G1GYBCyVS-qPGIMzBsbJ/view?usp=sharing" target="_blank">Presentation</a></div>
 In the last few decades, the global landscape of corporate income taxation has witnessed a significant transformation characterized by a widespread decline in tax rates levied on corporate profits. Understanding what is driving reductions
 in tax levels and the effects on government revenues is crucial for designing effective tax policies and ensuring sustainable fiscal frameworks.
 </div>
