@@ -9,13 +9,13 @@ nav.navigation {
     text-align: center;
   }
 
-  #list-page {
-    padding: 0;
-  }
-
   #single {
     padding: 0 12px;
   }
+}
+
+#list-page {
+  padding: 0;
 }
 
 .img-container { text-align: center; }
@@ -37,29 +37,11 @@ svg:hover path {
   fill-opacity: 1!important;
 }
 
-.summary .tags {
-  margin-top: 12px;
-}
-.summary .tags a {
-  background: #f2f2f2;
-  padding: 4px 7px;
-  color: #757575;
-  font-size: 14px;
-  margin-right: 3px;
-}
-.summary .tags a:hover {
-  color: #0366d6;
-}
-
-#archive {
-  margin-top: 48px;
-}
-
-#tags {
-  margin: 48px auto;
-}
-
 #list-page .pagination {
   text-align: center;
   margin-bottom: 0;
+}
+
+#blog-top {
+  margin-bottom: 48px;
 }

@@ -1,7 +1,6 @@
 ---
 title: Un giorno vennero a prendere me
 date: 2021-02-01
-tags: ["POV"]
 ---
 
 <div class="img-container">

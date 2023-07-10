@@ -3,13 +3,7 @@
 
 <section id="section">
 
-<section id="tags">
-        {{ range $data := .Site.Taxonomies.tags.ByCount }}
-        <span class="tag">
-            <a href="{{ .Page.Permalink }}">{{ .Page.Title | upper }} ({{ .Count }})</a> 
-        </span>
-        {{ end }}
-</section>
+{{ .Content }}
 
 <div id="list-page">
 
@@ -28,12 +22,6 @@
 
         {{ if ne .Site.Params.hiddenPostSummaryInHomePage true }}
             <div class="summary">{{ $summary | plainify | htmlUnescape }}
-        {{ end }}
-
-        {{ with .Params.tags }}
-        <div class="tags">
-            {{ partial "colortags.html" . }}
-        </div>
         {{ end }}
 
         </section>

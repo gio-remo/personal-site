@@ -3,7 +3,6 @@ title: Graduation is a re-start
 date: 2022-07-20
 summary: I graduated in Economics and Management from the Università degli Studi di Milano, but this is just the beginning because "a smooth sea never made a skilled sailor".
 linkedin: https://www.linkedin.com/posts/giovanni-remonti_european-university-research-activity-6956164148883849216-xDOd
-tags: ["Workin'"]
 ---
 
 <div class="img-container">

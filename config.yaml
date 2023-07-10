@@ -75,8 +75,6 @@ params:
   links:
     - name: Blog
       path: /posts
-    #- name: € $ ¥
-    #  path: /money
     #- name: Edu
     #  path: /edu
     - name: Shelf
