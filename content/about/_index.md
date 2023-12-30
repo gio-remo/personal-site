@@ -11,6 +11,12 @@ After the library, I like running and playing 70s songs on my guitar. My ideal S
 This is a list of my own works that I have written for my studies over the years.
 
 <div style="margin-bottom:1.5em;">
+<b>✽ The Magic of Soft-Skills Training</b><br>
+<div style="font-size: 80%;padding:7px 0 15px;">December 2023 | Course Paper | <a href="https://github.com/gio-remo/own-works/tree/main/MSc-Course-Paper-Organizational" target="_blank">Source</a> | <a href="https://drive.google.com/file/d/1qOXhVMK3C-zCtzgbB1PpnajyTF4H8Krm/view?usp=sharing" target="_blank">PDF</a></div>
+Micro and Small Enterprises in emerging economies are typically characterized by low productivity and survival rates. Standard training programs aim to teach participants "hard skills," such as financial management or quality control. Over the years, to boost the positive effects of these programs many alternative designs and extensions have risen. In this context, Ubfal 2022 implements a Randomized Control Trial in Jamaica to test the impact of soft-skills training on business outcomes.
+</div>
+
+<div style="margin-bottom:1.5em;">
 <b>✽ Countries Do Compete over Corporate Tax Rates while Keeping Revenues Stable</b><br>
 <div style="font-size: 80%;padding:7px 0 15px;">June 2023 | Seminar Paper | <a href="https://github.com/gio-remo/own-works/tree/main/MSc-Seminar-Paper-Tax-Policy" target="_blank">Source</a> | <a href="https://drive.google.com/file/d/1p7gaOlmrV3nUJv8TcTnlWdOBBk5TPvmH/view?usp=sharing" target="_blank">PDF</a> | <a href="https://drive.google.com/file/d/1rJtqMLAt5-B8G1GYBCyVS-qPGIMzBsbJ/view?usp=sharing" target="_blank">Slides</a></div>
 In the last few decades, the global landscape of corporate income taxation has witnessed a significant transformation characterized by a widespread decline in tax rates levied on corporate profits. Understanding what is driving reductions
