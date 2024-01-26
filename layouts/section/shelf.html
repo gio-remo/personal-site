@@ -4,7 +4,14 @@
 <section id="section">
 
     {{ .Content }}
+
+    <div style="text-align: center;">
+        <div class="shelf-btn" id="l-books" onclick="dbooks()">Books</div>
+        <div style="display: inline-block;"><img id="switch" src="/images/s-sx.png" style="height:1em;"/></div>
+        <div class="shelf-btn" id="l-movies" onclick="dmovies()">Movies</div>
+    </div>
     
+    <div id="b-books">
     {{ range sort $.Site.Data.shelf.books "year" "desc" }}
         <h3>{{ .year }}</h3>
         <ul>
@@ -16,6 +23,44 @@
             {{ end }}
         </ul>
     {{ end }}
+    </div>
+
+    <div id="b-movies" hidden>
+    {{ range sort $.Site.Data.shelf.movies "year" "desc" }}
+        <h3>{{ .year }}</h3>
+        <ul>
+            {{ $slice := .list }}
+            {{ $len := len $slice }}
+            {{ range (seq $len) }}
+                {{ $i := sub $len . }}
+                <li><b>{{ index $slice $i "title" }}</b>, {{ index $slice $i "director" }}</li>
+            {{ end }}
+        </ul>
+    {{ end }}
+    </div>
+
+    <script>
+        function dbooks() {
+            document.getElementById("switch").src = "/images/s-sx.png"
+
+            document.getElementById("b-books").style.display = "block";
+            document.getElementById("l-books").style.backgroundColor = "#f6f6f7";
+
+            document.getElementById("b-movies").style.display = "none";
+            document.getElementById("l-movies").style.backgroundColor = "transparent";
+        }
+        function dmovies() {
+            document.getElementById("switch").src = "/images/s-dx.png"
+
+            document.getElementById("b-movies").removeAttribute("hidden");
+            document.getElementById("b-movies").style.display = "block";
+            document.getElementById("l-movies").style.backgroundColor = "#f6f6f7";
+
+            document.getElementById("b-books").style.display = "none";
+            document.getElementById("l-books").style.backgroundColor = "transparent";
+        }
+    </script>
+
 
 </section>
 
