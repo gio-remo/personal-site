@@ -2,5 +2,7 @@ year: 2024
 list:
   - title: "SmoKings"
     director: "Michele Fornasero"
+    cinema: FALSE
   - title: "Poor Things"
     director: "Yorgos Lanthimos"
+    cinema: TRUE

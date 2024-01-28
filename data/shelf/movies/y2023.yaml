@@ -2,25 +2,37 @@ year: 2023
 list:
   - title: "The Worst Person in the World"
     director: "Joachim Trier"
+    cinema: FALSE
   - title: "Triangle of Sadness"
     director: "Ruben Östlund"
+    cinema: FALSE
   - title: "Everything Everywhere All at Once"
     director: "The Daniels"
+    cinema: TRUE
   - title: "Kokomo City"
     director: "D. Smith"
+    cinema: TRUE
   - title: "Asteroid City"
     director: "Wes Anderson"
+    cinema: TRUE
   - title: "Elemental"
     director: "Peter Sohn"
+    cinema: FALSE
   - title: "Il più bel secolo della mia vita"
     director: "Alessandro Bardani"
+    cinema: FALSE
   - title: "Il sol dell'avvenire"
     director: "Nanni Moretti"
+    cinema: FALSE
   - title: "Cat Person"
     director: "Susanna Fogel"
+    cinema: TRUE
   - title: "Manodopera"
     director: "Alain Ughetto"
+    cinema: FALSE
   - title: "Le mie ragazze di carta"
     director: "Luca Lucini"
+    cinema: FALSE
   - title: "I pionieri"
     director: "Luca Scivoletto"
+    cinema: FALSE

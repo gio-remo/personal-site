@@ -33,10 +33,12 @@
             {{ $len := len $slice }}
             {{ range (seq $len) }}
                 {{ $i := sub $len . }}
-                <li><b>{{ index $slice $i "title" }}</b>, {{ index $slice $i "director" }}</li>
+                {{ $cinema := index $slice $i "cinema" }}
+                <li><b>{{ index $slice $i "title" }}</b>, {{ index $slice $i "director" }} {{ if $cinema }}🍿{{end}}</li>
             {{ end }}
         </ul>
     {{ end }}
+    <p>*🍿 = watched at the cinema</p>
     </div>
 
     <script>
