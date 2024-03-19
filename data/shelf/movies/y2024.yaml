@@ -6,3 +6,6 @@ list:
   - title: "Poor Things"
     director: "Yorgos Lanthimos"
     cinema: TRUE
+  - title: "The Boy and the Heron"
+    director: "Hayao Miyazaki"
+    cinema: TRUE
