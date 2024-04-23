@@ -9,3 +9,6 @@ list:
   - title: "The Boy and the Heron"
     director: "Hayao Miyazaki"
     cinema: TRUE
+  - title: "C'è ancora domani"
+    director: "Paola Cortellesi"
+    cinema: FALSE
