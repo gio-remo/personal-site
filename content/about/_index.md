@@ -11,6 +11,11 @@ After the library, I like running and playing 70s songs on my guitar. My ideal S
 This is a list of my own works that I have written for my studies over the years.
 
 <div style="margin-bottom:1.5em;">
+<b>✽ Carbon Tariffs in Trade</b><br>
+<div style="font-size: 80%;padding:7px 0 15px;">June 2024 | Seminar Paper | <a href="https://github.com/gio-remo/own-works/tree/main/MSc-Seminar-Paper-Trade" target="_blank">Source</a> | <a href="https://drive.google.com/file/d/1nSNpSIofSXZXjF7_kX8Zt1r5RIn_fKmM/view?usp=sharing" target="_blank">PDF</a> | <a href="https://drive.google.com/file/d/1rde63cU82BBC-FlCwbZ10IT2CFiNWYKn/view?usp=sharing" target="_blank">Slides</a></div></div>
+</div>
+
+<div style="margin-bottom:1.5em;">
 <b>✽ The Magic of Soft-Skills Training</b><br>
 <div style="font-size: 80%;padding:7px 0 15px;">December 2023 | Course Paper | <a href="https://github.com/gio-remo/own-works/tree/main/MSc-Course-Paper-Organizational" target="_blank">Source</a> | <a href="https://drive.google.com/file/d/1qOXhVMK3C-zCtzgbB1PpnajyTF4H8Krm/view?usp=sharing" target="_blank">PDF</a></div>
 Micro and Small Enterprises in emerging economies are typically characterized by low productivity and survival rates. Standard training programs aim to teach participants "hard skills," such as financial management or quality control. Over the years, to boost the positive effects of these programs many alternative designs and extensions have risen. In this context, Ubfal 2022 implements a Randomized Control Trial in Jamaica to test the impact of soft-skills training on business outcomes.
